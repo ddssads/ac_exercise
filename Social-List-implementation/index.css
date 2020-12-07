@@ -1,0 +1,35 @@
+.btn-show-user:hover, .btn-add-favorite:hover, .btn-remove-favorite:hover {
+  border-radius : 20px;
+}
+
+.card:hover {
+  background-image: linear-gradient(to left, #cd9cf2, #f6f3ff);
+}
+
+.modal-content {
+  background-image: linear-gradient(to right, #2af598, #009efd);
+}
+
+p {
+  font-weight:600;
+  color:purple;
+}
+
+.card {
+  max-width: 220px;
+}
+
+.condition-search:hover {
+  border-radius : 25px;
+  font-size:18px;
+}
+
+.modal-dialog .modal-content {
+  min-height: 403px;
+}
+
+.modal-dialog .modal-body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
